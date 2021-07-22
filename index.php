@@ -13,7 +13,7 @@
     <nav class="navbar navbar-expand-sm bg-danger navbar-light">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="add.php">Addition</a>
+            <a class="nav-link" href="index.php">Addition</a>
           </li>
           <li class="nav-item active">
             <a class="nav-link" href="sub.php">Subtraction</a>
