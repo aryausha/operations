@@ -1,0 +1,12 @@
+.pic
+{
+    background : url("../images/flat-vector-set-compositions-objects-related-to-education-theme-back-school-blackboard-books-textbooks-globe-supplies-120399256.jpg")no-repeat
+}
+.text
+{
+    color:red;
+}
+.text:hover
+{
+    color: magenta;
+}
